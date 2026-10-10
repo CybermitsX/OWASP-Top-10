@@ -5,8 +5,8 @@ Official OWASP Top 10
 3. A03:2025 - Software Supply Chain Failures
 4. A04:2025 - Cryptographic Failures
 5. A05:2025 - Injection
-    1. A10:2025 - Mishandling of Exceptional Conditions
 6. A06:2025 - Insecure Design
 7. A07:2025 - Authentication Failures
 8. A08:2025 - Software or Data Integrity Failures
 9. A09:2025 - Security Logging and Alerting Failures
+10. A10:2025 - Mishandling of Exceptional Conditions
